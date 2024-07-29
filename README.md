@@ -29,4 +29,4 @@ As a dedicated web developer, I specialize in creating modern, visually appealin
 
 [Twitter]: https://twitter.com/shagor276
 [Facebook]: https://www.facebook.com/mdshagor.hossain1
-[LinkedIn]: https://ayushirawat.com](https://www.linkedin.com/in/md-shagor-hossain-b39119215/
+[LinkedIn]: https://www.linkedin.com/in/md-shagor-hossain-b39119215/
