@@ -1,14 +1,16 @@
 ## Hi, I'm Md Shagor Hossain 👋
 <p>
-👑 I am Web Developer <br> 
+👑 I am a Web Developer <br> 
 🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+🎤 Like to share my knowledge <br>
+🎤 Love to listen music
 
-I’m a Front-end web developer who is passionate about making modern and eye-catchy websites with 100% client satisfaction. I have a passion for learning and new technologies and use them for solving problems. I always plan first and work accordingly. I pride myself on doing quality work and maintain excellent communication. Mostly I work with HTML, CSS, and 
-JS but also enjoy working with WordPress. I am always open to my clients and work as per their needs.
+
+As a dedicated web developer, I specialize in creating modern, visually appealing Web Apps. My enthusiasm for learning new technologies drives my ability to solve complex problems effectively. 
+
 
 ### 👨‍💻 Skills & Experiance: 
- ✅ WordPress <br>  ✅ JavaScript <br> ✅ HTML5 / CSS3 / SASS / Bootstrap <br> ✅ Photoshop / Illustrator <br>
+✅ JavaScript / TypeScript <br> ✅ NodeJs / ExpressJs <br> ✅ MongoDB / Firebase / MySql <br> ✅ XD / Figma <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagor-coder&layout=compact)
 
@@ -20,4 +22,4 @@ JS but also enjoy working with WordPress. I am always open to my clients and wor
 ![Profile views](https://gpvc.arturio.dev/shagor-coder) 
 
 ## 📧 For Any Inquiries 
-✅  ► msh43320@gmail.com
+✅  ► contact@developershagor.com
