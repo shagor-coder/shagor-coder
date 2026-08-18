@@ -10,7 +10,7 @@ As a dedicated web developer, I specialize in creating modern, visually appealin
 
 
 ### 👨‍💻 Skills & Experiance: 
-✅ JavaScript / TypeScript <br> ✅ NodeJs / ExpressJs <br> ✅ PGSql / Firebase / MySql <br> ✅ AI Assistant <br>
+✅ JavaScript / TypeScript <br> ✅ NodeJs / NextJS <br> ✅ PGSql / Firebase / MySql <br> ✅ AI Assistant <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagor-coder&layout=compact)
 
