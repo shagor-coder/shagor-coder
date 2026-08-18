@@ -1,6 +1,6 @@
 ## Hi, I'm Md Shagor Hossain 👋
 <p>
-👑 I am a Web Developer <br> 
+👑 I am a Full-Stack Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge <br>
 🎤 Love to listen music
@@ -10,7 +10,7 @@ As a dedicated web developer, I specialize in creating modern, visually appealin
 
 
 ### 👨‍💻 Skills & Experiance: 
-✅ JavaScript / TypeScript <br> ✅ NodeJs / ExpressJs <br> ✅ MongoDB / Firebase / MySql <br> ✅ XD / Figma <br>
+✅ JavaScript / TypeScript <br> ✅ NodeJs / ExpressJs <br> ✅ PGSql / Firebase / MySql <br> ✅ AI Assistant <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shagor-coder&layout=compact)
 
